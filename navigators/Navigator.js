@@ -1,6 +1,6 @@
 import { createStackNavigator } from "@react-navigation/stack";
-import { Cam } from "../home/Cam";
-import { Home } from "../home/Home";
+import { Cam } from "../screens/Cam/Cam";
+import { Home } from "../screens/Home/Home";
 
 const Stack = createStackNavigator();
 
